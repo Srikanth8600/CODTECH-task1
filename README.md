@@ -1,7 +1,11 @@
 **Name:** J SRIKANTH
+
 **Company:** CODTECH IT SOLUTIONS 
+
 **ID:** CT08EJV
+
 **Domain:** Full Stack Web Development
+
 **Duration:** December to January 2025
 
 
@@ -9,6 +13,7 @@
 ## Overview of the Project
 
 ### Project: Creating a responsive Personal Portfolio Website
+
 
 ### Objectives
 The object of this project is to creating a responsive personal portfolio website
