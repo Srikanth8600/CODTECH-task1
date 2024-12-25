@@ -8,7 +8,7 @@
 
 **Duration:** December to January 2025
 
-
+**Mentor:** N. Santhosh
 
 ## Overview of the Project
 
